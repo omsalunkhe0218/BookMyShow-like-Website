@@ -33,6 +33,8 @@ The project successfully replicates essential features of BookMyShow, providing 
 
 ## References
 - Images sourced from: [https://in.bookmyshow.com/]
+
+  
 ![bookmyshow](https://github.com/user-attachments/assets/b914d2c4-9a2f-401c-b0c3-46c0952def59)
 ![bookmyshow2](https://github.com/user-attachments/assets/d957c891-4cb4-4b6e-9cce-4340960f16f8)
 
